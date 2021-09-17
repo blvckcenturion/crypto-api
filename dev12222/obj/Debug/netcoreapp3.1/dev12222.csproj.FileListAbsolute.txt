@@ -1,0 +1,13 @@
+/Users/santiagosarabia/Projects/dev12222/dev12222/bin/Debug/netcoreapp3.1/dev12222.deps.json
+/Users/santiagosarabia/Projects/dev12222/dev12222/bin/Debug/netcoreapp3.1/dev12222.runtimeconfig.json
+/Users/santiagosarabia/Projects/dev12222/dev12222/bin/Debug/netcoreapp3.1/dev12222.runtimeconfig.dev.json
+/Users/santiagosarabia/Projects/dev12222/dev12222/bin/Debug/netcoreapp3.1/dev12222.dll
+/Users/santiagosarabia/Projects/dev12222/dev12222/bin/Debug/netcoreapp3.1/dev12222.pdb
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.csproj.AssemblyReference.cache
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.AssemblyInfoInputs.cache
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.AssemblyInfo.cs
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.csproj.CoreCompileInputs.cache
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.dll
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.pdb
+/Users/santiagosarabia/Projects/dev12222/dev12222/obj/Debug/netcoreapp3.1/dev12222.genruntimeconfig.cache
